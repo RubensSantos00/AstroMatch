@@ -34,4 +34,4 @@ Tela com todos os Matchs do Usuário
   
 # Demo
 
-Link do Projeto: [Astro Match](even-drink.surge.sh)
+Link do Projeto: even-drink.surge.sh
